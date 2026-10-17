@@ -1,12 +1,4 @@
 ## Hi there 👋
-
-### Languages & Technologies
-
-![Languages](https://skillicons.dev/icons?i=python,c,cpp,bash,java,html,css)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rileyandrsn&layout=compact&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rileyandrsn&layout=compact&langs_count=20&theme=tokyonight)
 <!--
 **rileyandrsn/rileyandrsn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
