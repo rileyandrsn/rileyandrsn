@@ -4,8 +4,8 @@
 ```
                                                                                                     
 $ neofetch                                                                                                    
-                                           Education: Pierce College, Arizona State University                                                                                                                                     
-=@@@@@@@@@@@@%#*:      #@@@@@#.                
+                                           Education: Pierce College (AA), Arizona State University (BS + MS - in progress) 
+=@@@@@@@@@@@@%#*:      #@@@@@#.            Certifications: Security+, CCNA    
 =@@@@@@@@@@@@@@@@%:   *@@@@@@@=                          
 =@@@@@@%%%%%@@@@@@@  =@@@@@@@@@-                         
 =@@@@@=     .*@@@@@ :%@@@@@@@@@@:                        
