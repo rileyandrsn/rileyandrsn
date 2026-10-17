@@ -4,7 +4,7 @@ $ neofetch                              rileyandrsn@github
                                         ------------------ 
 =@@@@@@@@@@@@%#*:      #@@@@@#.         Education: Pierce College (AA), Arizona State University (BS + MS)
 =@@@@@@@@@@@@@@@@%:   *@@@@@@@=         Certifications: Security+, CCNA              
-=@@@@@@%%%%%@@@@@@@  =@@@@@@@@@-        Focus: Network & Offensive Security, Cryptography, Vuln Research             
+=@@@@@@%%%%%@@@@@@@  =@@@@@@@@@-        Focus: Network & Offensive Security, Cryptography, Vuln Research
 =@@@@@=     .*@@@@@ :%@@@@@@@@@@:       Programming & Scripting: Python, C, C++, Bash, SQL, x86-64 Assembly
 =@@@@@=      +@@@@+ #@@@@#:%@@@@@.       
 =@@@@@#===+#@@@@@*.*@@@@@- .@@@@@#.      
@@ -15,7 +15,7 @@ $ neofetch                              rileyandrsn@github
 =@@@@@=    .%%:-@@@@@*         #@@@@@*                   
 :=+==+:     .. +==+==:          =+==+=:                  
                                                                            
-                                                                                                          
+
 ```
 
 <!--
