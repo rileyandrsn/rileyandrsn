@@ -3,15 +3,15 @@
 
 ```
                                                                                                     
-$ neofetch                                                                                                    
-                                           Education: Pierce College (AA), Arizona State University (BS + MS - in progress) 
-=@@@@@@@@@@@@%#*:      #@@@@@#.            Certifications: Security+, CCNA    
-=@@@@@@@@@@@@@@@@%:   *@@@@@@@=                          
-=@@@@@@%%%%%@@@@@@@  =@@@@@@@@@-                         
-=@@@@@=     .*@@@@@ :%@@@@@@@@@@:                        
-=@@@@@=      +@@@@+ #@@@@#:%@@@@@.                       
-=@@@@@#===+#@@@@@*.*@@@@@- .@@@@@#.                      
-=@@@@@@@@@@@@@@@%:=@@@@@*   =@@@@@+                      
+$ neofetch                                 rileyandrsn@github                                                                
+                                           ------------------ 
+=@@@@@@@@@@@@%#*:      #@@@@@#.            Education: Pierce College (AA), Arizona State University (CS BS + MS)    
+=@@@@@@@@@@@@@@@@%:   *@@@@@@@=            Certifications: Security+, CCNA              
+=@@@@@@%%%%%@@@@@@@  =@@@@@@@@@-           Focus: Network & Offensive Security              
+=@@@@@=     .*@@@@@ :%@@@@@@@@@@:          Programming & Scripting: Python, C, C++, Bash, SQL, x86-64 Assembly              
+=@@@@@=      +@@@@+ #@@@@#:%@@@@@.         Offensive Security: Binary Exploitation, Rev, ROP, Memory Corruption              
+=@@@@@#===+#@@@@@*.*@@@@@- .@@@@@#.        General Security: Crypto, Vulnerability Analysis              
+=@@@@@@@@@@@@@@@%:=@@@@@*   =@@@@@+        Networking: Cisco IOS, Junos, FortiGate Firewalls, Wireless Security     
 =@@@@@@@@@@@@@@+ :%@@@@@@@@@@@@@@@@:                     
 =@@@@@=  =@@@@@*.#@@@@@@@@@@@@@@@@@@.                    
 =@@@@@=   .@@@# =@@@@@=:::::::*@@@@@%                    
