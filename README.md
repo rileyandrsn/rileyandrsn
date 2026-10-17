@@ -1,16 +1,16 @@
 ```
                                                                                                     
-$ neofetch                                 rileyandrsn@github
-                                           ------------------ 
-=@@@@@@@@@@@@%#*:      #@@@@@#.            Education: Pierce College (AA), Arizona State University (CS BS + MS)
-=@@@@@@@@@@@@@@@@%:   *@@@@@@@=            Certifications: Security+, CCNA              
-=@@@@@@%%%%%@@@@@@@  =@@@@@@@@@-           Focus: Network & Offensive Security, Vulnerability Research             
-=@@@@@=     .*@@@@@ :%@@@@@@@@@@:          Programming & Scripting: Python, C, C++, Bash, SQL, x86-64 Assembly
-=@@@@@=      +@@@@+ #@@@@#:%@@@@@.         Offensive Security: Binary Exploitation, Rev, ROP, Memory Corruption
-=@@@@@#===+#@@@@@*.*@@@@@- .@@@@@#.        General Security: Detection Engineering, Crypto, Vulnerability Analysis
-=@@@@@@@@@@@@@@@%:=@@@@@*   =@@@@@+        Networking: Cisco IOS, Junos, FortiGate Firewalls, Wireless Security
-=@@@@@@@@@@@@@@+ :%@@@@@@@@@@@@@@@@:                     
-=@@@@@=  =@@@@@*.#@@@@@@@@@@@@@@@@@@.                    
+$ neofetch                              rileyandrsn@github
+                                        ------------------ 
+=@@@@@@@@@@@@%#*:      #@@@@@#.         Education: Pierce College (AA), Arizona State University (BS + MS)
+=@@@@@@@@@@@@@@@@%:   *@@@@@@@=         Certifications: Security+, CCNA              
+=@@@@@@%%%%%@@@@@@@  =@@@@@@@@@-        Focus: Network & Offensive Security, Cryptography, Vuln Research             
+=@@@@@=     .*@@@@@ :%@@@@@@@@@@:       Programming & Scripting: Python, C, C++, Bash, SQL, x86-64 Assembly
+=@@@@@=      +@@@@+ #@@@@#:%@@@@@.       
+=@@@@@#===+#@@@@@*.*@@@@@- .@@@@@#.      
+=@@@@@@@@@@@@@@@%:=@@@@@*   =@@@@@+     contact 
+=@@@@@@@@@@@@@@+ :%@@@@@@@@@@@@@@@@:    -------                 
+=@@@@@=  =@@@@@*.#@@@@@@@@@@@@@@@@@@.   therileyanderson@proton.me                 
 =@@@@@=   .@@@# =@@@@@=:::::::*@@@@@%                    
 =@@@@@=    .%%:-@@@@@*         #@@@@@*                   
 :=+==+:     .. +==+==:          =+==+=:                  
