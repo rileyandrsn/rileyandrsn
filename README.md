@@ -1,19 +1,19 @@
 ```
                                                                                                     
-$ neofetch                              rileyandrsn@github
-                                        ------------------ 
-=@@@@@@@@@@@@%#*:      #@@@@@#.         Education: Pierce College (AA), Arizona State University (BS + MS)
-=@@@@@@@@@@@@@@@@%:   *@@@@@@@=         Certifications: Security+, CCNA              
-=@@@@@@%%%%%@@@@@@@  =@@@@@@@@@-        Focus: Network & Offensive Security, Cryptography, Vuln Research
-=@@@@@=     .*@@@@@ :%@@@@@@@@@@:       Programming & Scripting: Python, C, C++, Bash, SQL, x86-64 Assembly
+$                                        rileyandrsn@github
+                                         ------------------ 
+=@@@@@@@@@@@@%#*:      #@@@@@#.          Education: Pierce College (AA), Arizona State University (BS + MS)
+=@@@@@@@@@@@@@@@@%:   *@@@@@@@=          Certifications: Security+, CCNA              
+=@@@@@@%%%%%@@@@@@@  =@@@@@@@@@-         Focus: Network & Offensive Security, Cryptography, Vuln Research
+=@@@@@=     .*@@@@@ :%@@@@@@@@@@:        Programming & Scripting: Python, C, C++, Bash, SQL, x86-64 Assembly
 =@@@@@=      +@@@@+ #@@@@#:%@@@@@.       
-=@@@@@#===+#@@@@@*.*@@@@@- .@@@@@#.      
-=@@@@@@@@@@@@@@@%:=@@@@@*   =@@@@@+     contact 
-=@@@@@@@@@@@@@@+ :%@@@@@@@@@@@@@@@@:    -------                 
-=@@@@@=  =@@@@@*.#@@@@@@@@@@@@@@@@@@.   therileyanderson@proton.me                 
-=@@@@@=   .@@@# =@@@@@=:::::::*@@@@@%                    
-=@@@@@=    .%%:-@@@@@*         #@@@@@*                   
-:=+==+:     .. +==+==:          =+==+=:                  
+=@@@@@#===+#@@@@@*.*@@@@@- .@@@@@#.      description 
+=@@@@@@@@@@@@@@@%:=@@@@@*   =@@@@@+      -----------
+=@@@@@@@@@@@@@@+ :%@@@@@@@@@@@@@@@@:     Most of my repos are private to maintain academic integrity
+=@@@@@=  =@@@@@*.#@@@@@@@@@@@@@@@@@@.                    
+=@@@@@=   .@@@# =@@@@@=:::::::*@@@@@%    contact                  
+=@@@@@=    .%%:-@@@@@*         #@@@@@*   -------                 
+:=+==+:     .. +==+==:          =+==+=:  therileyanderson@proton.me                 
                                                                            
 
 ```
