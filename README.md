@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+### Languages & Technologies
+
+![Languages](https://skillicons.dev/icons?i=python,c,cpp,bash,java,html,css)
 <!--
 **rileyandrsn/rileyandrsn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
